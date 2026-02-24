@@ -39,6 +39,8 @@ const def = {
     "chap-mae616.md",
     "chap-kouno.md",
 	"chap-viva.md",
+	"chap-syossan27.md",
+	"chap-comi-cnannotOutput.md",
 
     // 後書き
     "90-postscript.md",

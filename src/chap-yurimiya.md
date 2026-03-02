@@ -6,7 +6,7 @@ class: chapter
 # 「アウトプットしんどい」と感じたら思い出してほしいコト
 
 <div class="flush-right">
-百合宮桜@
+百合宮桜@yurimiyasakura
 </div>
 
 
@@ -87,13 +87,13 @@ class: chapter
 #### 本章の執筆者
 
 <div class="author-profile">
-    <img src="images/amamiya.png">
+    <img src="images/amamiya-x.jpg">
     <div>
         <div>
             <b>百合宮桜（TAKAI Miyu）</b>
-            <a href="https://twitter.com/---">X: @----</a>
+            <a href="https://twitter.com/yurimiyasakura">X: @yurimiyasakura</a>
         </div>
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-自己紹介ひとこと
+製造業の制服事務員→ Power Platform での開発・研修講師になったヒト。RPACommunity ライトニングトーク支部・Power Automate for desktop 支部・Power Automate for web 支部主催。たまに Happy Low-Code という主催コミュニティで業務改善のいろはを話します。[lit.link](https://lit.link/a5c5782c-e4fa-4cc4-a10f-20662694542a) に今までの活動をまとめておりますので、ご興味あればご覧ください。

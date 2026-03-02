@@ -26,21 +26,23 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	"chap-info-about.md",
+	  "chap-info-about.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
-	"chap-introduction.md",
-	"chap-template.md",
-	"chap-dpon.md",
-	"chap-ryo.md",
-	"chap-aizack.md",
-	"chap-forte.md",
-	"chap-fumiyasac.md",
-	"chap-yumechi.md",
-  "chap-kouno.md",
-
-	"chap-uemu-enginner.md",
+    "chap-introduction.md",
+    "chap-template.md",
+    // 登壇者の寄稿
+    "chap-dpon.md",
+    "chap-ryo.md",
+    "chap-aizack.md",
+    "chap-forte.md",
+    "chap-fumiyasac.md",
+    "chap-yumechi.md",
+    "chap-kouno.md",
+    "chap-uemu-enginner.md",
+    // サポーター/スポンサーの寄稿
+    "chap-kouno-supporter.md",
     // 後書き
     "90-postscript.md",
     "98-authors.md",

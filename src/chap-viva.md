@@ -9,7 +9,7 @@ class: chapter
 びば/森一樹(@viva_tweet_x)
 </div>
 
-## はじめに
+
 
 はじめまして、びば/森一樹（@viva_tweet_x）です。『ふりかえりガイドブック』『ふりかえりカタログ』『ふりかえりチートシート』などの著者です。
 
@@ -73,7 +73,7 @@ LTをしたあと、「どんな反応があったか」「どこが伝わって
 #### 本章の執筆者
 
 <div class="author-profile">
-    <img src="images/viva.jpg">
+    <img src="images/viva.png">
     <div>
         <div>
             <b>森一樹/びば</b>

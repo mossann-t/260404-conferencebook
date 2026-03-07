@@ -25,6 +25,7 @@ const def = {
     "part-easy.md",
     "chap-info-about.md",
 	"chap-sponsor.md",
+	"chap-timetable.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",

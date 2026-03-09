@@ -24,6 +24,8 @@ const def = {
     // 第一部 とにかく楽をする
     "part-easy.md",
     "chap-info-about.md",
+	"chap-sponsor.md",
+	"chap-timetable.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
@@ -53,6 +55,7 @@ const def = {
     "chap-mossann.md",
 	  "chap-jun.md",
     "chap-FUMIYA.md",
+	"chap-oyakata.md",
 
     // 後書き
     "90-postscript.md",

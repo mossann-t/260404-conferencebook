@@ -7,15 +7,15 @@ class: colophon
 </div>
 
 <div>
-    <div class="colophon-title">ワンストップデータマネジメント</div>
+    <div class="colophon-title">アウトプットの背中を押すカンファレンス<br>ワンストップアウトプット！<br>公式ガイドブック</div>
     <table>
         <tr>
-            <td colspan="3">2025年6月1日 初版発行 第17回 技術書典</td>
+            <td colspan="3">2026年4月4日 初版発行</td>
         </tr>
         <tr>
             <td>　</td>
             <td>発行</td>
-            <td>親方Project</td>
+            <td>ワンストップアウトプット！　実行委員会/親方Project</td>
         </tr>
         <tr>
             <td>　</td>
@@ -25,7 +25,7 @@ class: colophon
         <tr>
             <td>　</td>
             <td>連絡先</td>
-            <td>oyakata2438@gmail.com</td>
+            <td>info@onestop-output.dev</td>
         </tr>
         <tr>
             <td>　</td>
@@ -33,5 +33,5 @@ class: colophon
             <td>K-9</td>
         </tr>
     </table>
-    <div>&copy; 2025 親方Project</div>
+    <div>&copy; 2026 ワンストップアウトプット！　実行委員会/親方Project</div>
 </div>

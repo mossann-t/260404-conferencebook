@@ -55,7 +55,8 @@ const def = {
     "chap-mossann.md",
 	  "chap-jun.md",
     "chap-FUMIYA.md",
-	"chap-oyakata.md",
+    "chap-okamoto.md",
+	  "chap-oyakata.md",
 
     // 後書き
     "90-postscript.md",

@@ -4,7 +4,7 @@ class: author
 # 企画・実行委員長
 
 <div class="author-profile">
-    <img src="images/oyakata.jpg">
+    <img src="images/oyakata_logo.jpg">
     <div>
         <div>
             <b>親方 </b>

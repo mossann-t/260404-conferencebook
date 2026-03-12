@@ -39,7 +39,7 @@ https://kouno-log.pages.dev/
 
 **親方Project**
 
-![](images/sponsor/oyakata.png){width=40%}
+![](images/oyakata_logo.jpg){width=40%}
 
 https://oyakata.booth.pm/
 
@@ -54,6 +54,24 @@ https://www.amazon.co.jp/stores/author/B07FLMHLSY
 
 **モウフカブール**
 
+![](images/sponsor/mofusquare.png){width=40%}
+
+https://mofukabur.com
+
+小笠原種高と大澤文孝を中心とした創作集団。写真集や技術書を出している。
+
+<br>
+
+<br>
+
+<br>
+
 
 
 **味噌とんトロ定食**
+
+![](images/sponsor/misotontoro.png){width=40%}
+
+https://techbookfest.org/organization/33040002
+
+ひとこと紹介：AIやIoTなど、いま流行りの面白そうな技術で「何か」を作ってワイワイするサークルです。

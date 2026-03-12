@@ -43,9 +43,11 @@ FUMIYA（ふみや）
 #### 本章の執筆者
 
 <div class="author-profile">
-    <div><b>FUMIYA</b></div>
+    <img src="images/FUMIYA.jpg">
     <div>
-        <b>（ふみや）</b>
+        <div>
+            <b>FUMIYA（ふみや）</b>
+        </div>
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">

@@ -20,3 +20,33 @@ class: author
 </p>
 
 # コアスタッフ
+
+<div class="author-profile">
+    <img src="images/mimitabu.jpg">
+    <div>
+        <div>
+            <b>耳たぶ </b>
+            <a href="https://x.com/tabuer6">X@tabuer6</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+開発をやってみたり、テストの自動化をしてみたり、探り探りで模索中のエンジニア<br>
+使いやすいもの、便利なもの、触っていて心地の良いソフトウェアが好き。業務内の些細な面倒を改善するツールを作って広めるのが趣味。<br>
+楽しそうな人が好きなので、楽しそうにアウトプットをして行きたい！
+</p>
+
+<br>
+
+
+<div class="author-profile">
+    <img src="images/imai.jpg">
+    <div>
+        <div>
+            <b>いまい </b>    
+		</div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+できることから精一杯頑張ります！
+</p>

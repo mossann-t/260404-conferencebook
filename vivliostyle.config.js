@@ -24,11 +24,11 @@ const def = {
     // 第一部 とにかく楽をする
     "part-easy.md",
     "chap-info-about.md",
+	"chap-sponsor.md",
+	"chap-timetable.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
-    "chap-introduction.md",
-    "chap-template.md",
     "chap-dpon.md",
     "chap-ryo.md",
     "chap-aizack.md",
@@ -53,6 +53,10 @@ const def = {
     "chap-yurimiya.md",
     "chap-shuichiro.md",
     "chap-mossann.md",
+	  "chap-jun.md",
+    "chap-FUMIYA.md",
+    "chap-okamoto.md",
+	  "chap-oyakata.md",
 
     // 後書き
     "90-postscript.md",
